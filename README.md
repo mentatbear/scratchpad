@@ -9,3 +9,7 @@ Some topics to learn about include
 - Issue templates
 - Releases and using them to trigger external pipelines (like Azure DevOps or AWS CodePipeline)
 - IaC in Terraform and CloudFormation
+
+## Backend
+
+https://fastapi.tiangolo.com/project-generation/
