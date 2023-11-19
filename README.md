@@ -7,4 +7,5 @@ Some topics to learn about include
 - GitHub Actions
 - git conflict resolution
 - Issue templates
-- Releases and using them to trigger external pipelines (like \* Azure DevOps or AWS CodePipeline)
+- Releases and using them to trigger external pipelines (like Azure DevOps or AWS CodePipeline)
+- IaC in Terraform and CloudFormation
