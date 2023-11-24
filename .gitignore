@@ -1,3 +1,4 @@
+.DS_Store
 # Spring Boot - see https://github.com/spring-projects/spring-boot/blob/main/.gitignore
 *#
 *.iml
